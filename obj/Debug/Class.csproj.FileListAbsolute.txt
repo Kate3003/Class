@@ -5,3 +5,14 @@ C:\Users\egrushina\Documents\Никита\ООП\Class\obj\Debug\Class.csprojAss
 C:\Users\egrushina\Documents\Никита\ООП\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
 C:\Users\egrushina\Documents\Никита\ООП\Class\obj\Debug\Class.exe
 C:\Users\egrushina\Documents\Никита\ООП\Class\obj\Debug\Class.pdb
+C:\Users\egrushina\Documents\Никита\Class\bin\Debug\Class.exe.config
+C:\Users\egrushina\Documents\Никита\Class\bin\Debug\Class.exe
+C:\Users\egrushina\Documents\Никита\Class\bin\Debug\Class.pdb
+C:\Users\egrushina\Documents\Никита\Class\obj\Debug\Class.csprojAssemblyReference.cache
+C:\Users\egrushina\Documents\Никита\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\egrushina\Documents\Никита\Class\obj\Debug\Class.exe
+C:\Users\egrushina\Documents\Никита\Class\obj\Debug\Class.pdb
+C:\Users\egrushina\Documents\Никита\Class\bin\Debug\NLog.config
+C:\Users\egrushina\Documents\Никита\Class\bin\Debug\NLog.dll
+C:\Users\egrushina\Documents\Никита\Class\bin\Debug\NLog.xml
+C:\Users\egrushina\Documents\Никита\Class\obj\Debug\Class.csproj.CopyComplete
